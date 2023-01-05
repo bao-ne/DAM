@@ -1,6 +1,6 @@
 <?php 
-    require_once 'view/header.php';
-    require_once 'view/main.php';
-    require_once 'view/footer.php';
+    require_once 'part/header.php';
+    require_once 'part/main.php';
+    require_once 'part/footer.php';
     
 ?>
